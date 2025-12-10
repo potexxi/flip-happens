@@ -1,5 +1,4 @@
 # Flip Happens
-1AHIF HTL Rankweil 24/25
 
 \
 _"Flip Happens"_ is a fast-paced platformer where you play as a stylish skater doing cool tricks and reacting fast through creative levels full of obstacles.
